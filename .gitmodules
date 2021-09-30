@@ -1,0 +1,21 @@
+[submodule "deps/Cluster"]
+	path = deps/Cluster
+	url = https://github.com/robert-strandh/Cluster
+[submodule "deps/Concrete-Syntax-Tree"]
+	path = deps/Concrete-Syntax-Tree
+	url = https://github.com/s-expressionists/Concrete-Syntax-Tree
+[submodule "deps/Eclector"]
+	path = deps/Eclector
+	url = https://github.com/s-expressionists/Eclector
+[submodule "deps/Trucler"]
+	path = deps/Trucler
+	url = https://github.com/s-expressionists/Trucler
+[submodule "deps/Clostrum"]
+	path = deps/Clostrum
+	url = https://github.com/s-expressionists/Clostrum
+[submodule "deps/incless"]
+	path = deps/incless
+	url = https://github.com/s-expressionists/incless
+[submodule "deps/ctype"]
+	path = deps/ctype
+	url = https://github.com/s-expressionists/ctype
